@@ -2,7 +2,7 @@
 
 This project analyzes historical communication messages that are captured after some disasters to be filtered and submitted to the concerned disaster response organizations.
 <p align="center">
-<img src='images/sample.png' width="600" height="600" />
+<img src='images/sample.PNG' width="600" height="600" />
 </p>
 
 ### Reading and processing the data
